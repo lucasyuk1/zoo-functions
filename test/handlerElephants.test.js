@@ -23,5 +23,3 @@ describe('Testes da função HandlerElephants', () => {
     expect(handlerElephants('location')).toBe('NW');
   });
 });
-
-
